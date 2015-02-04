@@ -1,0 +1,23 @@
+'*':
+  'exception-reporting':
+    'userId': 'e6a176f8-e276-de37-408a-f3f46d73e4ae'
+  'release-notes':
+    'viewedVersion': '0.95.0'
+  'welcome':
+    'showOnStartup': false
+  'metrics':
+    'userId': '5d21549efaa00220f18ea9b13818df803f5b7d37'
+  'editor':
+    'fontSize': 11
+    'showInvisibles': true
+    'showIndentGuide': true
+    'softWrapAtPreferredLineLength': true
+    'invisibles': {}
+  'core':
+    'themes': [
+      'seti-ui'
+      'seti-monokai'
+    ]
+  'highlight-column':
+    'opacity': 0.15
+    'enableHighlight': false
